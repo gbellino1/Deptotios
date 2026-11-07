@@ -1,0 +1,6 @@
+{
+  "name": "PropApp - Mendoza 2900, Belgrano",
+  "description": "Excelente departamento de 4 ambientes con balcón y cochera en Belgrano. USD 235.000.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
